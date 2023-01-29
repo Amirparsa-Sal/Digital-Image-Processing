@@ -10,4 +10,7 @@ This is a repository contains all my codes and solitions for the course Digital 
 - [Restoration & Morphologic Operations](./HW5%20-%20Restoration%20%26%20Morphologic%20Operations/)
 - [Registration & Segmentation](./HW6%20-%20Registration%20%26%20Segmentation/)
 
+Problems for each homework are available in the `Problems` folder.
+
 Every question is answered in a seperate python or jupyter notebook file with the same name as the question number. The reports are available in jupyter notebook files.
+
