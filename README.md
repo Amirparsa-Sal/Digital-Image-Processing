@@ -1,5 +1,5 @@
 # Digital-Image-Processing
-This is a repository contains all my codes and solitions for the course Digital Image Processing at Amirkabir University of Technology.
+This repository contains all my codes and solitions for the course Digital Image Processing at Amirkabir University of Technology.
 
 ## Table of Contents
 - [Python DIP Basics](./HW0%20-%20Python%20DIP%20Basics/)
@@ -14,3 +14,5 @@ Problems for each homework are available in the `Problems` folder.
 
 Every question is answered in a seperate python or jupyter notebook file with the same name as the question number. The reports are available in jupyter notebook files.
 
+## Source book
+This course is based on the book `Digital Image Processing` by Rafael C. Gonzalez and Richard E. Woods.
