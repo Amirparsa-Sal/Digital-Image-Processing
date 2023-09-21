@@ -1,5 +1,5 @@
 # Digital-Image-Processing
-This repository contains all my codes and solutions for the course Digital Image Processing at Amirkabir University of Technology.
+This repository contains all my codes and solutions for the "Elementary Image Processing" course at Amirkabir University of Technology.
 
 ## Table of Contents
 - [Python DIP Basics](./HW0%20-%20Python%20DIP%20Basics/)
